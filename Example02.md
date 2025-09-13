@@ -1,3 +1,3 @@
 This is example file for manual pull in local repo
 
-Adding a line in remote repo to create merge conflict
+This is a better change for conflict!!!!!
