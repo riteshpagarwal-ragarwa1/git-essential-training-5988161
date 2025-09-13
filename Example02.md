@@ -1,3 +1,3 @@
-This is example file for manual pull in local repo
+This is example file for manual pull in local repoo
 
-Adding a line in remote repo to create merge conflict. One more time!!
+FINAL RESOLVE IN REMOTE EDITOR
